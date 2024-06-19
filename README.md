@@ -1,7 +1,5 @@
 # LiterAlura-Challenge
 
-![Preview Projeto](./imgs/preview.png)
-
 ## Acesse o projeto clicando <a href="">AQUI</a>
 
 <br />
@@ -21,13 +19,13 @@ Vamos tratar do nosso desafio LiterAlura, onde construímos nosso próprio catá
 ### 1 - Clone o repositório:
 
 ```
-git clone 
+git clone https://github.com/Eliedson1979/LiterAlura-Challenge
 ```
 
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
 
 ```sh
-cd wallet
+cd LiterAlura-Challenge
 ```
   </details>
 <br />
